@@ -18,3 +18,6 @@ nome = input("Quanti anni hai?")
 eta = 30 
 print = nome, "la mia eta"= eta
  eta
+jjj
+kkk 
+
